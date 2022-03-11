@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-quiz2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\quiz2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\quiz2.cpp.obj"
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\quiz2GameModeBase.cpp.obj"
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\quiz2.init.gen.cpp.obj"
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\quiz2GameModeBase.gen.cpp.obj"
+"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\Default.rc2.res"
+/OUT:"C:\Repos\3-10-gpr-quiz\quiz2\Intermediate\Build\Win64\UE4Editor\Development\quiz2\UE4Editor-quiz2.lib"
